@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5CD976720FCD76500E6623B /* MainCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CD976620FCD76500E6623B /* MainCollectionViewCell.swift */; };
 		C3BE7C7120FC7FF6006CDB62 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BE7C7020FC7FF6006CDB62 /* AppDelegate.swift */; };
 		C3BE7C7320FC7FF6006CDB62 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BE7C7220FC7FF6006CDB62 /* ViewController.swift */; };
 		C3BE7C7620FC7FF6006CDB62 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3BE7C7420FC7FF6006CDB62 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B5CD976620FCD76500E6623B /* MainCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCollectionViewCell.swift; sourceTree = "<group>"; };
 		C3BE7C6D20FC7FF6006CDB62 /* Prospectus App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Prospectus App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3BE7C7020FC7FF6006CDB62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3BE7C7220FC7FF6006CDB62 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				C3BE7C7020FC7FF6006CDB62 /* AppDelegate.swift */,
 				C3BE7C7220FC7FF6006CDB62 /* ViewController.swift */,
 				C3BE7C7420FC7FF6006CDB62 /* Main.storyboard */,
+				B5CD976620FCD76500E6623B /* MainCollectionViewCell.swift */,
 				C3BE7C7A20FC7FF7006CDB62 /* Assets.xcassets */,
 				C3BE7C7C20FC7FF7006CDB62 /* LaunchScreen.storyboard */,
 				C3BE7C7F20FC7FF8006CDB62 /* Info.plist */,
@@ -262,6 +265,7 @@
 				C3BE7C7320FC7FF6006CDB62 /* ViewController.swift in Sources */,
 				C3BE7C7920FC7FF6006CDB62 /* Prospectus_App.xcdatamodeld in Sources */,
 				C3BE7C7120FC7FF6006CDB62 /* AppDelegate.swift in Sources */,
+				B5CD976720FCD76500E6623B /* MainCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
