@@ -8,10 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController, UICollectionViewDelegate,UICollectionViewDataSource {
+class ViewController: UIViewController, UICollectionViewDelegate ,UICollectionViewDataSource {
     
-    let imageArray = [UIImage(named: "1"),UIImage(named: "2"),UIImage(named: "3"),UIImage(named: "4"),UIImage(named: "5")]
-    let nameArray = ["Category 1","Category 2","Category 3","Category 4","Category 5"]
+    let imageArray = [UIImage(named: "1"), UIImage(named: "2"), UIImage(named: "3"), UIImage(named: "4"), UIImage(named: "5")]
+    let nameArray = ["Category 1", "Category 2", "Category 3", "Category 4", "Category 5"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
